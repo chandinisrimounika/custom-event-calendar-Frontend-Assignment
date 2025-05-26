@@ -46,8 +46,6 @@ A professional event calendar application built with **React 18** and **TypeScri
 - **Tailwind CSS** — Utility-first CSS framework
 - **shadcn/ui** — Customizable, accessible UI components
 - **date-fns** — Lightweight date handling
-- **React DnD** — Drag-and-drop support
-
 ---
 
 ## 📦 Installation & Setup
