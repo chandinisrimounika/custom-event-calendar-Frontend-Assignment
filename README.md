@@ -1,4 +1,4 @@
-# 📅 Custom Event Calendar Pro
+# 📅 Custom Event Calendar 
 
 A professional event calendar application built with **React 18** and **TypeScript**, offering a dynamic, interactive interface for managing personal or professional schedules. Users can create, edit, delete, and manage recurring events with drag-and-drop rescheduling, responsive design, and theme support.
 
